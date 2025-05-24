@@ -1,0 +1,41 @@
+✅ Project Story (Indian English)
+Project Title:
+Customer Sentiment Analysis – Amazon Fashion (1-Star Reviews)
+
+Objective:
+To identify the core reasons behind poor customer ratings on Amazon Fashion by analysing only 1-star reviews. This project combines SQL for precise data filtering and feature engineering, Python for accurate sentiment labelling, and Power BI for compelling visualisation and storytelling.
+
+Tools Used:
+
+SQL Workbench: Filtered reviews, extracted year and month from dates, and categorised verified purchases for granular insights
+
+Python: Processed review texts and implemented keyword-based sentiment tagging to classify customer sentiment
+
+Power BI: Designed and developed an interactive dashboard to visualise key trends and insights
+
+Excel: Performed additional data cleaning and prepared data exports for Power BI
+
+Key SQL Operations:
+
+Extracted reviews with 1-star ratings only, ensuring focused analysis on dissatisfied customers
+
+Derived year and month from review dates to identify temporal trends
+
+Categorised verified purchase status to differentiate genuine buyers from others
+
+Python Tasks:
+
+Applied keyword-based sentiment labelling on review texts, tagging reviews as ‘Negative’ or ‘Neutral’ using relevant keywords like “bad”, “fake”, and “broken”
+
+Enhanced accuracy of sentiment classification to reflect real customer emotions
+
+Key Insights:
+
+All reviews analysed had 1-star ratings, indicating complete customer dissatisfaction
+
+Negative sentiment clearly dominated, highlighting issues with product sizing, quality, and counterfeit goods
+
+Even verified purchasers reported negative experiences, suggesting serious trust and quality concerns
+
+Business Value:
+This analysis provides Amazon Fashion brands with deep insights into critical customer pain points, empowering them to take targeted corrective actions. The project supports decision-making to improve product quality, enhance customer satisfaction, and rebuild brand trust.
